@@ -12,7 +12,7 @@
 - опциональные временные параметры from и to в формате ISO8601
 - необязательный аргумент формата вывода результата: markdown или adoc
 
-Пример конфигурации запуска: --path src/main/resources/nginx_logs.txt
+Пример конфигурации запуска: --path src/main/resources/nginx_logs_example.txt
 https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Formats/nginx_logs/nginx_logs
 --format markdown
 

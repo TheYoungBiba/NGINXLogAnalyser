@@ -8,7 +8,7 @@ import java.nio.file.Path;
 import java.time.ZonedDateTime;
 import java.util.List;
 
-//Example of Main run configuration: --path src/main/resources/nginx_logs.txt --format markdown
+//Example of Main run configuration: --path src/main/resources/nginx_logs_example.txt --format markdown
 
 public class Main {
     private Main() {}
